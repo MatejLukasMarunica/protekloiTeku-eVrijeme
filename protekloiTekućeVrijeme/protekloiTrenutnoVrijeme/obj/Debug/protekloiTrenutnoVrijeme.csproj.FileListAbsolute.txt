@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\bin\Debug\protekloiTrenutnoVrijeme.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\bin\Debug\protekloiTrenutnoVrijeme.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\bin\Debug\protekloiTrenutnoVrijeme.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\obj\Debug\protekloiTrenutnoVrijeme.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\obj\Debug\protekloiTrenutnoVrijeme.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\obj\Debug\protekloiTrenutnoVrijeme.Form1.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\obj\Debug\protekloiTrenutnoVrijeme.Properties.Resources.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\obj\Debug\protekloiTrenutnoVrijeme.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\obj\Debug\protekloiTrenutnoVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\obj\Debug\protekloiTrenutnoVrijeme.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\protekloiTrenutnoVrijeme\protekloiTrenutnoVrijeme\obj\Debug\protekloiTrenutnoVrijeme.pdb
